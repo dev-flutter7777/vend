@@ -10,7 +10,7 @@ class AppConstants {
   static const int imageQuality = 100;
 
 
-  static const String baseUrl = 'YOUR_BASE_URL_HERE';
+  static const String baseUrl = 'http://10.0.0.118/ba/public';
 
   static const String loginUri = '/api/v3/seller/auth/login';
   static const String configUri = '/api/v1/config';
